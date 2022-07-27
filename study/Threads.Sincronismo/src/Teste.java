@@ -1,4 +1,3 @@
-package miltin.videoaula;
 
 import java.util.concurrent.Semaphore;
 

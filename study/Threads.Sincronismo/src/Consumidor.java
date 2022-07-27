@@ -1,4 +1,3 @@
-package miltin.videoaula;
 
 public class Consumidor extends Thread{
 	Numero numero;

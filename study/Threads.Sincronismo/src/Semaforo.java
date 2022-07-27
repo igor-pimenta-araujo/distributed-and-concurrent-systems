@@ -1,4 +1,4 @@
-package miltin.videoaula;
+
 
 public class Semaforo {
 	private int contador = 0;

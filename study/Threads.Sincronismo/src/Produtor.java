@@ -1,4 +1,4 @@
-package miltin.videoaula;
+
 
 public class Produtor extends Thread {
 	Numero numero;
