@@ -11,7 +11,7 @@ public class Consumer extends Thread {
     public void run() {
         int sum = 0;
 
-        for (int count = 1; count <= 4; count++) {
+        for (int count = 1; count <= 10; count++) {
 
             // sleep 0 to 3 seconds, read value from Buffer and add to sum
             try {

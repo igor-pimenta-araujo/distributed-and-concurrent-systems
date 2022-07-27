@@ -9,7 +9,7 @@ public class Producer extends Thread {
 
     // store values from 1 to 4 in sharedLocation
     public void run() {
-        for (int count = 1; count <= 4; count++) {
+        for (int count = 1; count <= 10; count++) {
 
             // sleep 0 to 3 seconds, then place value in Buffer
             try {
